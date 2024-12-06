@@ -44,3 +44,5 @@ La arquitectura es de microservicios, donde cada agente es un microservicio inde
    ```
 
 ## Estructura del Proyecto
+![image](https://github.com/user-attachments/assets/fcb98cb5-cac8-4d3f-93d0-bfb914be1958)
+
