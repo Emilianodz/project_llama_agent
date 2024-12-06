@@ -44,18 +44,3 @@ La arquitectura es de microservicios, donde cada agente es un microservicio inde
    ```
 
 ## Estructura del Proyecto
-proyecto/
-├── action_agent/
-│ ├── Dockerfile
-│ └── ...
-├── detection_agent/
-│ ├── Dockerfile
-│ └── ...
-├── interaction_agent/
-│ ├── Dockerfile
-│ └── ...
-├── controller/
-│ ├── Dockerfile
-│ └── ...
-├── docker-compose.yml
-└── README.md
